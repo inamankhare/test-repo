@@ -10,8 +10,6 @@ function App() {
 
   
 
-  
-
 function changeHandler(e){
   setformdata(prevformdata=>{
     return{
